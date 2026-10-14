@@ -6,9 +6,9 @@
 
 I'm an MSc Cloud Computing with Industry student at the **University of Leicester**, with professional experience supporting enterprise IT environments at Computacenter for AstraZeneca. I enjoy troubleshooting complex technical issues, designing cloud infrastructure, and developing machine learning applications that solve real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-ny-a276281b7/)
 [![GitLab](https://img.shields.io/badge/GitLab-Explore_Projects-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](YOUR_GITLAB_URL)
-[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](YOUR_GITLAB_URL)
+
 
 ---
 
