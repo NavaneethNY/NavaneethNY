@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Navaneeth Nataraja Yogachar
 
-### AI & Cloud Computing | DevOps | Machine Learning | Technical Support
+### AI & Cloud Computing | Data Science | DevOps | Machine Learning | Technical Support
 
 **Building practical solutions at the intersection of cloud infrastructure, intelligent applications, and enterprise IT.**
 
