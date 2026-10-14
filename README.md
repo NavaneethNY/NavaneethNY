@@ -16,12 +16,13 @@ I'm an MSc Cloud Computing with Industry student at the **University of Leiceste
 
 - 🎓 **Education:** MSc Cloud Computing with Industry, University of Leicester
 - 💼 **Experience:** Associate Technical Analyst at Computacenter, supporting AstraZeneca
-- ☁️ **Cloud:** AWS infrastructure, networking, containers, and cloud architecture
-- ⚙️ **DevOps:** Git, CI/CD concepts, Docker, Kubernetes, and infrastructure automation
-- 🤖 **AI & ML:** Predictive modelling, machine learning, model
-- 🛠️ IT Operations: Incident management, technical troubleshooting, and SLA-focused support
+- **Data Science:** Python, MySQL, PowerBI, Data visualisation, clustering, EDA, predictive modelling, SHAP
+- ☁️ **Cloud:** AWS infrastructure, networking, containers, cloud architecture, Devops and Agile methodology
+- ⚙️ **DevOps:** Git (github and gitlab), CI/CD concepts, Docker, Kubernetes, and infrastructure automation
+- 🤖 **AI & ML:** Predictive modelling, machine learning, AIML modelling
+- 🛠️ IT Operations: Service Now, Incident management, technical troubleshooting, and SLA-focused support, Triage resolve, Dashboard monitoring, Excellent communication, technical support
 
-🎯 Career Interests: Cloud Engineering, DevOps, AI Engineering, and Technical Support
+🎯 Career Interests: Data Aalyst, Cloud Engineering, DevOps, AI Engineering, and Technical Support
 
 I believe in continuous learning, practical problem-solving, and building technology that delivers measurable value.
 
