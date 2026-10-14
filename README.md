@@ -35,7 +35,7 @@ I believe in continuous learning, practical problem-solving, and building techno
 
 
 
-AWS VPC, EC2, security groups, NAT Gateway, cloud networking, containerisation, and infrastructure design.
+AWS VPC, EC2, security groups, NAT Gateway, Docker, cloud networking, containerisation, and infrastructure design.
 
 ⚙️ DevOps & Enterprise IT
 
@@ -44,7 +44,7 @@ AWS VPC, EC2, security groups, NAT Gateway, cloud networking, containerisation, 
 
 
 
-Incident management, ServiceNow, SCCM, Genesys, technical support, version control, CI/CD concepts, and troubleshooting.
+Incident management, ServiceNow, SCCM, Genesys, technical support, Network support, version control, CI/CD concepts, and Software troubleshooting.
 
 💻 Programming & Development
 
@@ -55,7 +55,7 @@ Incident management, ServiceNow, SCCM, Genesys, technical support, version contr
 
 
 
-Python, Groovy, SQL, HTML, CSS, JavaScript, MongoDB, and MySQL.
+Python, Windows Power Shell, Linux, Groovy, SQL, HTML, CSS, JavaScript, MongoDB, and MySQL.
 
 🤖 Artificial Intelligence & Data
 
@@ -67,7 +67,7 @@ Machine learning, predictive analytics, data preprocessing, classification, mode
 
 🌟 Featured Projects
 
-❤️ CardioIQ — Cardiovascular Risk Prediction
+❤️ CardioIQ — A Cloud platform Cardiovascular Risk Prediction
 
 A machine learning application developed as part of my MSc dissertation, using routinely collected health and lifestyle data to predict cardiovascular disease.
 
@@ -135,7 +135,7 @@ February 2024 – June 2024
 
 Built practical experience in enterprise IT support and troubleshooting.
 
-Developed knowledge of networking, communication protocols, and technical workflows.
+Developed knowledge of networking, communication protocols, and technical workflows with excellent communication.
 
 Worked with Microsoft tools and supported data interpretation and solution recommendations.
 
@@ -161,7 +161,7 @@ Technology isn't my only passion. I'm also a trained Carnatic vocalist and enjoy
 
 🎤 Lead vocalist and live performer.
 
-🏆 Experience in inter-college music competitions and live musical events.
+🏆 Experience in inter-college music competitions and live musical events. 
 
 📚 Continuous learner exploring cloud, AI, and emerging technologies.
 
@@ -169,9 +169,9 @@ I value creativity, collaboration, communication, and continuous improvement in 
 
 🤝 Let's Connect
 
-I'm interested in connecting with professionals, engineers, recruiters, and teams working on cloud infrastructure, DevOps, AI, and innovative software solutions.
+I'm interested in connecting with professionals, engineers, recruiters, and teams working on cloud infrastructure, DevOps, Data Science/Analysts AI, and innovative software solutions.
 
-Open to: Relevant graduate opportunities, industry placements, and early-career roles in cloud engineering, DevOps, AI/ML, and technical support.
+Open to: Relevant graduate opportunities, industry placements, and early-career roles in Data Science, cloud engineering, DevOps, AI/ML, and technical support.
 
 📩 Connect with me on LinkedIn or explore my repositories on GitLab.
 
