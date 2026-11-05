@@ -197,10 +197,10 @@ Developed a machine learning pipeline using routinely collected health and lifes
 
 **MSc Cloud Computing with Industry**  
 University of Leicester · United Kingdom
+Merit
 
 **B.Tech Computer Science and Engineering**  
 Presidency University · Bengaluru, India
-
 CGPA: **7.54/10**
 
 ---
